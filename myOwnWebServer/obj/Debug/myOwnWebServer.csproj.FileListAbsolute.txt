@@ -1,0 +1,7 @@
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.AssemblyReference.cache
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\Users\hmc91\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
